@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Overworld
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 2
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+    totalSpriteSurfaceArea: 8192
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -7420348681152002522, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -6963689687677474716, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 7729714757779404834, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -751306788586898831, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 8130776973973531791, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -4552426904097258378, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 1021777691211808109, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 4980722480926973905, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 8974967439127490223, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -4156473995146331369, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -2808912918896030947, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 6160371244532729349, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 4380801293546022450, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -6231940157227574475, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -7457814355982931783, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -1740429476008172039, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 4005392406419249952, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 1819965226546379651, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -4070460503812498795, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 4296605274691051237, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -5581022233014265620, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 1115081339451203671, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -5742917332908423820, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 7891458290861389179, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -3322317935081789191, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -3257886869826416224, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -4773987387073908618, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 4326707226829622078, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -8369111602855630616, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 4973064384990146566, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: 8511359936359659757, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  - {fileID: -7802160791626732050, guid: 7d1f654bf5124804ead68839f7965708, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Water_Centre
+  - Rocks_Top
+  - Water_LandTopLeft
+  - Rocks_TopRight
+  - Stairs_Down
+  - Water_BotLeft
+  - Rocks_BotRight
+  - Water_LandBotLeft
+  - Empty
+  - Bush
+  - Bridge
+  - Rocks_BotLeft
+  - Stump_BotLeft
+  - Water_TopRight
+  - Water_LandBotRight
+  - Rocks_Bot_Left_Right
+  - Stump_TopLeft
+  - Water_Left
+  - Water_TopLeft
+  - Water_Top
+  - Water_BotRight
+  - Stump_TopRight
+  - Ground_Default
+  - Stairs
+  - Boulder
+  - Ground_Sand
+  - Stump_Top
+  - Rocks_TopLeft
+  - Stump_BotRight
+  - Water_LandTopRight
+  - Water_Right
+  - Water_Bot
+  m_RenderDataMap: {}
+  m_Tag: Overworld
+  m_IsVariant: 0
